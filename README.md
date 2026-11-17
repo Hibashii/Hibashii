@@ -20,9 +20,9 @@ I'm the kind of engineer who always asks *why*. I enjoy understanding how things
 
 ### 🎯 Areas of Interest
 
-- 🧱 **Full-stack engineering:** building useful, well-structured applications
-- 🗄️ **Backend and architecture:** system design, PostgreSQL, performance, clean code
-- 🤖 **AI-assisted development:** using Claude Code daily with both existing and custom skills, and exploring AI agents to improve development workflows
+- **Full-stack engineering:** Building practical, well-structured applications
+- **Backend and architecture:** System design,Database design, performance and clean code
+- **AI-assisted development:** using Claude Code daily with both existing and custom skills, and exploring AI agents to improve development workflows
 
 ---
 
@@ -37,4 +37,3 @@ Outside of code, I love learning languages, discovering new cultures and trying 
   <i>Always curious. Always learning. Always building.</i><br/><br/>
   <a href="https://www.linkedin.com/in/hiba-iazza-4a500a277/">LinkedIn</a> · <a href="mailto:iazzahiba@gmail.com">Email</a>
 </p>
-
