@@ -1,5 +1,5 @@
 
-<h1 align="">Hey,&nbsp;Hiba here! 👋</h1>
+<h1 align="">Hey,&nbsp;Hiba here ;) </h1>
 
 Software engineer and EPITA graduate with two years of full-stack experience in a B2B SaaS environment, shipping production features across the stack.
 
