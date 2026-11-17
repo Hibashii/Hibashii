@@ -1,7 +1,7 @@
 
 <h1 align="">Hey,&nbsp;Hiba here ;) </h1>
 
-Software engineer and EPITA graduate with two years of full-stack experience in a B2B SaaS environment, shipping production features across the stack.
+Software engineer with two years of full-stack experience in a B2B SaaS environment, building and shipping production features across the stack.
 
 I'm the kind of engineer who always asks *why*. I enjoy understanding how things work, exploring new technologies and turning ideas into practical solutions. I care about building reliable software and keep expanding my technical knowledge.
 
